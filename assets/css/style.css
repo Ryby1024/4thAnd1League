@@ -31,6 +31,10 @@ table, th, td {
     margin-top: 150px;
 }
 
+#postseasonrecords {
+    margin-top: 150px;
+}
+
 .regseasonrecords {
     text-align: center;
     background-color: chartreuse;
